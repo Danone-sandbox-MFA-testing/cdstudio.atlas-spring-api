@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-repo-with-dependabot-vuln
+  annotations:
+    github.com/project-slug: Danone-sandbox-MFA-testing/test-repo-with-dependabot-vuln
+spec:
+  type: other
+  lifecycle: unknown
+  owner: childteam1
