@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: Danone-sandbox-MFA-testing/test-repo-with-dependabot-vuln
 spec:
-  type: other
+  type: service
   lifecycle: unknown
   owner: childteam1
