@@ -6,6 +6,6 @@ metadata:
     github.com/project-slug: Danone-sandbox-MFA-testing/test-repo-with-dependabot-vuln
     sonarqube.org/project-key: Danone-sandbox-MFA-testing_test-repo-with-dependabot-vuln
 spec:
-  type: website
+  type: api
   lifecycle: unknown
-  owner: childteam1
+  owner: gti_dan_eai_admin
