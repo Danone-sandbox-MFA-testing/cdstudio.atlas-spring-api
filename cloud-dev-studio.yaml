@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: atlas-spring-api
+  name: cdstudio.atlas-spring-api
   annotations:
-    github.com/project-slug: Danone-sandbox-MFA-testing/test-repo-with-dependabot-vuln
+    github.com/project-slug: Danone-sandbox-MFA-testing/cdstudio.atlas-spring-api
     sonarqube.org/project-key: Danone-sandbox-MFA-testing_test-repo-with-dependabot-vuln
 spec:
   type: api
   lifecycle: unknown
-  owner: gti_dan_eai_admin
+  owner: cdstudio
