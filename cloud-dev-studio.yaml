@@ -7,5 +7,5 @@ metadata:
     sonarqube.org/project-key: Danone-sandbox-MFA-testing_test-repo-with-dependabot-vuln
 spec:
   type: api
-  lifecycle: unknown
+  lifecycle: experimental
   owner: cdstudio
