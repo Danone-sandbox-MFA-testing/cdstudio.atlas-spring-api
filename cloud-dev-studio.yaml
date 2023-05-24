@@ -4,8 +4,8 @@ metadata:
   name: cdstudio.atlas-spring-api
   description: Atlas App Backend
   tags:
-    - Springboot
-    - Java
+    - springboot
+    - java
   annotations:
     github.com/project-slug: Danone-sandbox-MFA-testing/cdstudio.atlas-spring-api
     sonarqube.org/project-key: Danone-sandbox-MFA-testing_test-repo-with-dependabot-vuln
