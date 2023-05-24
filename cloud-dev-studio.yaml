@@ -2,10 +2,16 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: cdstudio.atlas-spring-api
+  description: Atlas App Backend
+  tags:
+    - Springboot
+    - Java
   annotations:
     github.com/project-slug: Danone-sandbox-MFA-testing/cdstudio.atlas-spring-api
     sonarqube.org/project-key: Danone-sandbox-MFA-testing_test-repo-with-dependabot-vuln
 spec:
   type: api
   lifecycle: experimental
+  system: atlas-app
   owner: cloud-dev-studio
+ 
