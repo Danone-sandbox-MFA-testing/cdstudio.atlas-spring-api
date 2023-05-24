@@ -9,6 +9,9 @@ metadata:
   annotations:
     github.com/project-slug: Danone-sandbox-MFA-testing/cdstudio.atlas-spring-api
     sonarqube.org/project-key: Danone-sandbox-MFA-testing_test-repo-with-dependabot-vuln
+  links:
+    - url: https://azure.microsoft.com/en-us/products/functions
+      title: Azure functions
 spec:
   type: microservice
   lifecycle: experimental
