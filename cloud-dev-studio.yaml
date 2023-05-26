@@ -15,6 +15,6 @@ metadata:
 spec:
   type: microservice
   lifecycle: experimental
-  system: atlas-app
+  system: cdstudio.atlas-app
   owner: cloud-dev-studio
  
